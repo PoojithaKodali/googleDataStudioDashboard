@@ -10,6 +10,9 @@
   https://datastudio.google.com/u/0/navigation/reporting
 # Video 
  https://youtu.be/Ly0wxp-E9xk
+# Image
+  ![18-16-53-Dashboard](https://user-images.githubusercontent.com/72956653/116406135-fa497b80-a84d-11eb-806b-9a52a12c3897.png)
+
 # Refrences
 1) https://www.kaggle.com/sudalairajkumar/covid19-in-india
 2) https://github.com/owid/covid-19-data/tree/master/public/data
